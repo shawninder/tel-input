@@ -1,0 +1,15 @@
+{
+  "name": "tel-input",
+  "version": "0.0.1",
+  "description": "Auto-format north-american phone numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "list-cases": "node ./listCases.js"
+  },
+  "author": "Shawn Inder <shawninder@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
